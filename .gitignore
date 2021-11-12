@@ -2,7 +2,6 @@
 node_modules
 /dist
 /final-builds
-build-all.py
 
 
 # local env files
